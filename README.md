@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# BW-AI-Challenge-2-Election-Process-Education-
-Build with AI Challenge 2  
-=======
 # BW-AI-Challenge-2-Election-Process-Education
 Build with AI Challenge 2
+
 # Election Process Education Assistant
 
 A full-stack, AI-powered interactive web application designed to help users understand the election process in a simple, structured, and engaging way.
@@ -118,4 +115,3 @@ The UI is built strictly according to a portfolio-quality standard using Stitch 
 - **Visual Hierarchy**: Clear distinction between primary actions (Start Learning) and secondary information.
 - **Micro-animations**: Provided via Framer Motion to give immediate feedback when interacting with timelines and quizzes.
 - **Trustworthy Palette**: A base of slate/white with varying shades of blue (primary action color) to evoke trust and clarity suitable for civic education.
->>>>>>> 18510284 (Secured project by removing secrets)
